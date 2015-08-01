@@ -12,13 +12,13 @@ I make it because I am a new user of Sublime Text and I like very much the featu
 Examples
 =====
 
-![example 1](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-1.png)
+![example 1](/../master/examples/example-1.png)
 
-![example 2](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-2.png)
+![example 2](/../master/examples/example-2.png)
 
-![example 3](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-3.png)
+![example 3](/../master/examples/example-3.png)
 
-![example 4](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-4.png)
+![example 4](/../master/examples/example-4.png)
 
 
 Installation & activation
