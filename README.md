@@ -10,4 +10,61 @@ I make it because I am a new user of Sublime Text and I like very much the featu
 
 
 Examples
+<<<<<<< HEAD
 =====
+=======
+=====
+
+![example 1](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-1.png)
+
+![example 2](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-2.png)
+
+![example 3](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-3.png)
+
+![example 4](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-4.png)
+
+
+Installation & activation
+====
+
+Download the files using the GitHub .zip download option and unzip it
+
+For Sublime Text 2 : 
+- Open the software and go to "Preferences" -> "Browse Packages"
+- Copy the .tmTheme file included into the NotepadPlusPlusFront directory and put it into 
+- Open the software and go to "Preferences" -> "Color Scheme" -> "User" and select "NotepadPlusPlusFront"
+
+For Sublime Text 3 : 
+- Open the software and go to "Preferences" -> "Browse Packages"
+- Copy the .tmTheme file included into the NotepadPlusPlusFront directory in "User"
+- Open the software and go to "Preferences" -> "Color Scheme" -> "User" and select "NotepadPlusPlusFront"
+
+
+Configuration
+====
+
+- Open the software and go to "Preferences" -> "Settings User"
+- Add the lines below into code brackets :
+
+```
+"autoIndent": true,
+"copyOnMouseSelect": false,
+"drawWhiteSpace": "none",
+"font_face": "Courier New",
+"font_size": 12,
+"gutter": true,
+"highlightLine": true,
+"highlight_line": true,
+"line_padding_top": 2,
+"line_padding_bottom": 2,
+"rulers": false,
+"tab_size": 4,
+"translate_tabs_to_spaces": true,
+"trim_trailing_white_space_on_save": true,
+"wantVerticalScrollBar": false,
+"word_wrap": true
+```
+
+Nota : The original font size of Notepad++ text is 12px, but on my screens 8px is the most resembling value of original software. Try more values and choose that you prefer ! 
+
+>>>>>>> origin/master
