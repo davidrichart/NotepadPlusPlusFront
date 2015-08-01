@@ -26,7 +26,7 @@ Installation & activation
 
 - Download the files using the GitHub .zip download option and unzip it
 - Open the software and go to "Preferences" -> "Browse Packages"
-- 
+
 For Sublime Text 2 : 
 - Copy the "Notepad Plus Plus Front.tmTheme" file into "Color Scheme - Default"
 - Open the software and go to "Preferences" -> "Color Scheme" -> "Color Scheme - Default" and select "Notepad Plus Plus Front"
@@ -40,7 +40,7 @@ Configuration
 ====
 
 - Open the software and go to "Preferences" -> "Settings User"
-- Add the lines below into code brackets :
+- Add the lines below into code brackets : 
 
 ```
 "autoIndent": true,
