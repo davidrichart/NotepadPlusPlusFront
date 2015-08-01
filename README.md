@@ -10,9 +10,6 @@ I make it because I am a new user of Sublime Text and I like very much the featu
 
 
 Examples
-<<<<<<< HEAD
-=====
-=======
 =====
 
 ![example 1](https://github.com/davidrichart/NotepadPlusPlusFront/master/examples/example-1.png)
@@ -66,5 +63,3 @@ Configuration
 ```
 
 Nota : The original font size of Notepad++ text is 12px, but on my screens 8px is the most resembling value of original software. Try more values and choose that you prefer ! 
-
->>>>>>> origin/master
