@@ -1,4 +1,4 @@
-# NotepadPlusPlusFront
+# Notepad Plus Plus Front
 Default Notepad++ Color scheme for Sublime Text
 
 About
@@ -24,17 +24,16 @@ Examples
 Installation & activation
 ====
 
-Download the files using the GitHub .zip download option and unzip it
-
-For Sublime Text 2 : 
+- Download the files using the GitHub .zip download option and unzip it
 - Open the software and go to "Preferences" -> "Browse Packages"
-- Copy the .tmTheme file included into the NotepadPlusPlusFront directory and put it into 
-- Open the software and go to "Preferences" -> "Color Scheme" -> "User" and select "NotepadPlusPlusFront"
+- 
+For Sublime Text 2 : 
+- Copy the "Notepad Plus Plus Front.tmTheme" file into "Color Scheme - Default"
+- Open the software and go to "Preferences" -> "Color Scheme" -> "Color Scheme - Default" and select "Notepad Plus Plus Front"
 
 For Sublime Text 3 : 
-- Open the software and go to "Preferences" -> "Browse Packages"
-- Copy the .tmTheme file included into the NotepadPlusPlusFront directory in "User"
-- Open the software and go to "Preferences" -> "Color Scheme" -> "User" and select "NotepadPlusPlusFront"
+- Copy the "Notepad Plus Plus Front.tmTheme" file into "User"
+- Open the software and go to "Preferences" -> "Color Scheme" -> "User" and select "Notepad Plus Plus Front"
 
 
 Configuration
